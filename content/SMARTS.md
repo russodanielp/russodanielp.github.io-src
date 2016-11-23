@@ -7,4 +7,4 @@ Authors: Daniel P. Russo
 Summary: A brief introduction to SMARTS using RDKit  
 
 
-{% notebook C:\Users\Daniel\Documents\ghpages\blogs\smarts\SMARTS.ipynb %}
+{% notebook C:\Users\Daniel\Documents\ghpages\src\blogs\smarts\SMARTS.ipynb %}

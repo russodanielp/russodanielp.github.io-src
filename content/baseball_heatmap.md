@@ -6,4 +6,4 @@ Slug:
 Authors: Daniel P. Russo
 Summary: Plotting a Heatmap with a Dendrogram Using Bokeh
 
-{% notebook C:\Users\Daniel\Documents\ghpages\blogs\baseball_heatmap\BaseballHeatMap.ipynb %}
+{% notebook C:\Users\Daniel\Documents\ghpages\src\blogs\baseball_heatmap\BaseballHeatMap.ipynb %}

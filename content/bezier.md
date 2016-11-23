@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Title: Creating a Color Gradient Using a Bezier curve 
-=======
 Title: Creating a Color Gradient Using a Bezier Curve 
->>>>>>> save
 Date: 2016-11-19 5:48 PM  
 Category: Python  
 Tags: python
@@ -11,4 +7,4 @@ Authors: Daniel P. Russo
 Summary: How to create a color gradient from an arbitrary set of colors. 
 
 
-{% notebook C:\Users\Daniel\Documents\ghpages\blogs\bezier_curve\BezierCurve.ipynb %}
+{% notebook C:\Users\Daniel\Documents\ghpages\src\blogs\bezier_curve\BezierCurve.ipynb %}
