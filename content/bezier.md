@@ -7,4 +7,4 @@ Authors: Daniel P. Russo
 Summary: How to create a color gradient from an arbitrary set of colors. 
 
 
-{% notebook C:\Users\Daniel\Documents\ghpages\blogs\bezier_curve\BezierCurve.ipynb %}
+{% notebook C:\Users\Daniel\Documents\ghpages\src\blogs\bezier_curve\BezierCurve.ipynb %}

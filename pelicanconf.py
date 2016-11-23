@@ -24,6 +24,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 ASSET_SOURCE_PATHS = ['theme'] # changed this as per https://github.com/getpelican/pelican/issues/1523
+
+# changed output folder directory
+OUTPUT_PATH = '../output/'
+
+
 # Blogroll
 LINKS = (('Zhu Research Group', 'http://zhu.camden.rutgers.edu/'),
          ('Rutgers Center for Computational and Integrative Biology', 'https://ccib.camden.rutgers.edu/'),
