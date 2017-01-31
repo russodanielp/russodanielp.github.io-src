@@ -111,7 +111,7 @@ American Chemical Society 245th National Meeting, Indianapolis, IN, September, 2
 
 ### Awards ###
 ---
->2017: Center for Computational and Integrative Biology Travel Grant.  $500.00
+>2017: Center for Computational and Integrative Biology Travel Grant.  $500.00  
 2017: Dean’s Graduate Conference Travel Grant.  $500.00  
 2016: Teaching Assistant and Graduate Assistant Professional Development Fund Award.  $700.00  
 2012: Dean's Tuition Remission Award, Biology Department.  $1,000.00  
