@@ -15,11 +15,11 @@ __revised__: January, 2017
 ---
 __2014 - Present__  
 Ph.D. Computational & Integrative Biology, __Rutgers, The State University of New Jersey__
-* March, 2016: Passed Qualifying Examination with Distinction  
-* May, 2015: Completed Coursework  
-* Thesis: _CIIPro: The Chemical In-vitro, In-vivo profiling project_
-* GPA: 3.96
-* Thesis Committee: Dr. Hao Zhu (Chair), Dr. David Salas-de la Cruz, Dr. Sunil Shende, Dr. William Welsh
+>March, 2016: Passed Qualifying Examination with Distinction  
+May, 2015: Completed Coursework  
+Thesis: _CIIPro: The Chemical In-vitro, In-vivo profiling project_  
+GPA: 3.96  
+Thesis Committee: Dr. Hao Zhu (Chair), Dr. David Salas-de la Cruz, Dr. Sunil Shende, Dr. William Welsh
 
 __2011 - 2014__  
 M.Sc. Biology, __Rutgers, The State University of New Jersey__
