@@ -104,7 +104,8 @@ American Chemical Society 245th National Meeting, Indianapolis, IN, September, 2
 
 ### Memberships and Committees ###
 ---
->2016-Present: Software Carpentry (Certified Instructor)  
+>2016-Present: Graduate Student Advisory Council  
+2016-Present: Software Carpentry (Certified Instructor)  
 2015-Present: Center for Computational & Integrative Biology Journal Club (Co-founder, Organizer)  
 2015-Present: American Chemical Society (Member)
 2015: _The Journal of Biological Sciences_ at Rutgers Camden (Student Editor)
@@ -119,12 +120,13 @@ American Chemical Society 245th National Meeting, Indianapolis, IN, September, 2
 ### Certifications ###
 ---
 >2012: College Reading & Learning Association Certified Tutor  
-2011: PADI Open Water Diver Certification
+2011: PADI Advanced Open Water Diver Certification  
+2010: PADI Open Water Diver Certification
 
 ### Volunteering ###
 ---
 >The Academy of Natural Sciences, Philadelphia, PA - Ichthyology Volunteer  
-Adventure Aquariumm, Camden, NJ - Fish and Invertebrates Husbandry Volunteer  
+Adventure Aquarium, Camden, NJ - Fish and Invertebrates Husbandry Volunteer  
 
 ### References ###
 
