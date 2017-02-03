@@ -31,6 +31,37 @@ Thesis Committee: Dr. Hao Zhu (Chair), Dr. Joseph V. Martin, Dr. Simeon Kotchoni
 __2004 - 2009__  
 B.A. Biology, __Rutgers, The State University of New Jersey__
 
+### Relevant Work Experience ###
+__2013-2014__
+Microbiologist, West-Ward Pharmaceuticals, Cherry Hill, NJ
+>Validate and perform experiments in the detection of microbial isolates and endotoxins
+from drug product and environmentally controlled manufacturing areas.  Perform testing
+and recording in compliance with SOPs and cGMP regulations under FDA discretion.
+
+__2012-2013__
+Certified College Reading & Learning Association Certified Tutor, Rutgers-Camden Learning Center, Camden, NJ
+>Tutor a variety of undergraduate level science courses in the fields of Biology, Biochemistry and Chemistry.  
+
+__2008-2012__
+Biologist, Adventure Aquarium, Camden, NJ
+>Oversee daily husbandry and animal health operations for a variety of marine, fresh, and
+brackish fish and invertebrates.  Assist in diving and animal health operations
+for the 700,000 gallon Ocean Realm and 500,000 gallon Shark Realm exhibits featuring sharks, rays
+turtles, and other large sea life.  Educate visitors in marine science through guided tours and
+daily guest interactions.    
+
+### Research Skills ###
+*Very good working knowledge of Python and Object-Oriented Design specializing in scientific computing,
+specifically in the field of cheminformatics.  
+*Very good working knowledge of data science and data visualization using the Python packages Pandas,
+Numpy, matplotlib, and Bokeh.
+*Proficient in Machine Learning principals and practices and their application to chemistry, toxicology,
+and early stage drug discovery.
+*Experience with a variety of computer tools and languages including bash, Git, Markdown, HTML, LaTeX,
+MongoDB, SQL, and web development using Flask.     
+*Passionate about scientific communication and education.  I host a blog titled "Drug Discovery in Python",
+showcasing data visualization and analysis using Python and using chemistry and baseball as motivating fields.  
+
 ### Teaching Experience ###
 ---
 __2012 - 2016__   
@@ -71,7 +102,7 @@ __Book Chapters__
 ### Refereed Presentations ###
 ---
 
->4\. CIIProCluster: Developing Enhanced PredictiveToxicity Models Using Big Data. Center for Computational and Integrative Biology Fall Seminar, Camden, New Jersey, September, 2016.  
+>4\. CIIProCluster: Developing Enhanced Predictive Toxicity Models Using Big Data. Center for Computational and Integrative Biology Fall Seminar, Camden, New Jersey, September, 2016.  
 3\. CIIPro:  An online cheminformatics portal for large scale chemical data analysis. Center for Computational and Integrative Biology Fall Seminar, Camden, New Jersey, September, 2015.  
 2\. CIIPro:  An online cheminformatics portal for large scale chemical data analysis.  American Chemical Society - Division of Chemical Information, Boston, MA, August, 2015.  
 1\. Quantitative structure activity relationship modeling of serotonin
